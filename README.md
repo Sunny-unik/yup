@@ -1,4 +1,4 @@
-# Boilerplate for add validations on node.js app with express using yup package
+# Boilerplate for add validations using yup package on node.js app with express
 
 ### Using yup for json schema definition because it is one of most high rated json validators.
 
